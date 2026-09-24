@@ -596,34 +596,6 @@ can evaluate whether their menu and inventory complexity is justified.
 
 ---
 
-# ⚠️ Data Limitations
-
-The dataset does **not** contain:
-
-- Customer ID
-- Customer demographic information
-- Loyalty/membership information
-- Cost data
-- Profit data
-- Profit margin data
-- Store information
-- Region information
-
-Therefore, this project does not include:
-
-- Customer-level segmentation
-- Customer lifetime value
-- Profit analysis
-- Profit margin analysis
-- Store comparison
-- Regional performance analysis
-
-These areas would require additional data.
-
-> The absence of these fields is explicitly documented rather than estimated
-> or inferred from the available transaction data.
-
----
 
 # 📁 Project Structure
 
